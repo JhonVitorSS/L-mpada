@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+button{
+  width: 150px;
+  padding: 5px;
+  font-size: 25px;
+  color: rgb(240, 106, 17);
+  font-weight: 900;
+  background-color: rgb(0, 0, 0);
+  border-radius: 25px;
+  transition: ease-in-out 400ms;
+}
+button:hover{
+  cursor: pointer;
+  width: 170px;
+  font-size: 29px;
+  color: rgb(0, 0, 0);
+ background-color: rgb(240, 106, 17);
+  border-radius: 25px;
+
+}
